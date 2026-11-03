@@ -1,0 +1,8 @@
+{
+  "name": "Antibody–Antigen Interaction Analyzer",
+  "description": "Computational structural biology workbench for antibody–antigen interface analysis, interactive 3D molecular visualization, IMGT CDR mapping, 5 Å contact graph extraction, and 20x20 residue interaction matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
